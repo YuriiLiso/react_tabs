@@ -1,0 +1,2 @@
+.buttons{display:-webkit-flex;display:flex;-webkit-flex-direction:row;flex-direction:row}.button{height:51px;width:200px;background-color:transparent;border:none;border-bottom:1px solid #000}.button:hover{background-color:#eee}.active{border:1px solid #000;border-bottom:transparent}.bottom-line{height:50px;width:100%;border-bottom:1px solid #000}.content{margin-top:30px}
+/*# sourceMappingURL=main.64b3243c.chunk.css.map */
